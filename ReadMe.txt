@@ -1,4 +1,4 @@
-1. Refer to an open-access publication for more details: https://doi.org/10.3390/agronomy11081659
+1. Please refer to an open-access publication for more details: https://doi.org/10.3390/agronomy11081659
 
 2. It is highly recommended to run with multiple processors, as more processors will finish the running faster.
 
