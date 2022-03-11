@@ -1,3 +1,4 @@
+# Author: Christoph Menz
 import os, shutil
 import subprocess
 import numpy as np
