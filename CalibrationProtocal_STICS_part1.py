@@ -1,4 +1,4 @@
-# Author: Christoph Menz
+# Author: Christoph Menz@pik-potsdam.de
 import os, shutil
 import subprocess
 import numpy as np
